@@ -5,3 +5,9 @@
 *.bottle.tar.gz
 *.bottle.json
 .brew_home/
+
+# Jockey
+.jockey
+
+# Distribution artifacts
+dist/
