@@ -1,9 +1,9 @@
 class Jockey < Formula
   desc "AI coding assistant with powerful code intelligence tools"
   homepage "https://github.com/LiquidMetal-AI/homebrew-tap"
-  version "0.0.1-alpha1"
-  url "https://github.com/LiquidMetal-AI/homebrew-tap/releases/download/jockey-v#{version}/jockey-#{version}.tar.gz"
-  sha256 "b4e277ddd009bf284afbe5e403676b2a33e8f2e78d75d5ca4be7b4f9c687bbb6"
+  version "0.0.1-alpha3"
+  url "https://github.com/LiquidMetal-AI/homebrew-tap/releases/download/jockey-v#{version}/jockey-v#{version}-darwin-universal.tar.gz"
+  sha256 "c14c4ba643e03e8a24884b9c6aaab5eb05a351e9c6b83240fd5e122766022274"
 
   def install
     bin.install "jockey"
