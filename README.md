@@ -42,7 +42,7 @@ brew install --cask LiquidMetal-AI/tap/<cask-name>
 
 ### Formulae
 
-- **jockey** - AI coding assistant with powerful code intelligence tools (v0.0.1-alpha6)
+- **raindrop-code** - AI coding assistant with powerful code intelligence tools (v0.0.1-alpha9)
 - **raindrop** - Raindrop CLI, By LiquidMetal.AI (v0.9.1)
 
 ### Casks
