@@ -1,8 +1,8 @@
 class RaindropCode < Formula
   desc "AI coding assistant with powerful code intelligence tools"
   homepage "https://github.com/LiquidMetal-AI/homebrew-tap"
-  url "https://github.com/LiquidMetal-AI/homebrew-tap/releases/download/raindrop-code-v0.0.1-alpha9/raindrop-code-v0.0.1-alpha9-darwin-universal.tar.gz"
-  sha256 "06de422a85e9882d0d11331622d1135bf127515a9e64f9003bc2ff2470dc1c01"
+  url "https://github.com/LiquidMetal-AI/homebrew-tap/releases/download/raindrop-code-v0.0.1-alpha10/raindrop-code-v0.0.1-alpha10-darwin-universal.tar.gz"
+  sha256 "2e4f435e090a6b98a147138db367f13e45497d5ad92ddf883aabbc5fa2ec05b8"
 
   def install
     bin.install "raindrop-code"
